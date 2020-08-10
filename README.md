@@ -1,4 +1,5 @@
-<h1 align="center">Hi there! I'm Thifany. <img src="https://66.media.tumblr.com/a3061b74a7b1146937d4383bbaa30938/abdb1362b7589c6e-b4/s640x960/d25d99df9b7d486e8ca85d5c5b56618dc7baefab.gif"></h1> 
+<p align="center"> <img src="https://66.media.tumblr.com/a3061b74a7b1146937d4383bbaa30938/abdb1362b7589c6e-b4/s640x960/d25d99df9b7d486e8ca85d5c5b56618dc7baefab.gif"> </p>
+<h1 align="center">Hi there! I'm Thifany.</h1> 
 
 <h1 align="center"><img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-madoka.gif"/></h1>
 <p align="center"> <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c9181c39-0daf-4f22-9ea4-52e21b19a0ca/daxy1gv-372d426a-4fe8-4ad5-ad69-6eee4747df76.png/v1/fill/w_1024,h_154,strp/lace_divider_big_by_sirafien_daxy1gv-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0xNTQiLCJwYXRoIjoiXC9mXC9jOTE4MWMzOS0wZGFmLTRmMjItOWVhNC01MmUyMWIxOWEwY2FcL2RheHkxZ3YtMzcyZDQyNmEtNGZlOC00YWQ1LWFkNjktNmVlZTQ3NDdkZjc2LnBuZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.CT5j0pkvTgCaD21f-JejJhrXchFsi7kkbiP6idGmYB0" height="100"></p>
