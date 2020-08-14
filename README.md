@@ -13,8 +13,8 @@
 <h1 align="center"><img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-kyoko.gif"/></h1>
 <p align="center"> <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c9181c39-0daf-4f22-9ea4-52e21b19a0ca/daxy1gv-372d426a-4fe8-4ad5-ad69-6eee4747df76.png/v1/fill/w_1024,h_154,strp/lace_divider_big_by_sirafien_daxy1gv-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0xNTQiLCJwYXRoIjoiXC9mXC9jOTE4MWMzOS0wZGFmLTRmMjItOWVhNC01MmUyMWIxOWEwY2FcL2RheHkxZ3YtMzcyZDQyNmEtNGZlOC00YWQ1LWFkNjktNmVlZTQ3NDdkZjc2LnBuZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.CT5j0pkvTgCaD21f-JejJhrXchFsi7kkbiP6idGmYB0" height="100"></p>
 <p align="center">
-<a href="https://codepen.io/aaaaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="aaaaa" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/aaaaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aaaaa" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/aaaaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="aaaaa" height="30" width="30" /></a>
-<a href="https://medium.com/aaaaaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="aaaaaa" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/thifany-nicastro/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aaaaa" height="30" width="30" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="aaaaa" height="30" width="30" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="aaaaaa" height="30" width="30" /></a>
+<a href=""><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="aaaaa" height="30" width="30" /></a>
 </p>
