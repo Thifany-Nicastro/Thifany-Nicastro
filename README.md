@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://66.media.tumblr.com/a3061b74a7b1146937d4383bbaa30938/abdb1362b7589c6e-b4/s640x960/d25d99df9b7d486e8ca85d5c5b56618dc7baefab.gif" width="300"> </p>
+<p align="center"> <img src="https://66.media.tumblr.com/a3061b74a7b1146937d4383bbaa30938/abdb1362b7589c6e-b4/s640x960/d25d99df9b7d486e8ca85d5c5b56618dc7baefab.gif" width="250"> </p>
 <h1 align="center">Hi there! I'm Thifany.</h1> 
 
 <h1 align="center"><img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-madoka.gif"/> <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-homura.gif"/> <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-mami.gif"/></h1>
