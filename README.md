@@ -12,15 +12,18 @@
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c9181c39-0daf-4f22-9ea4-52e21b19a0ca/daxy1gv-372d426a-4fe8-4ad5-ad69-6eee4747df76.png/v1/fill/w_1024,h_154,strp/lace_divider_big_by_sirafien_daxy1gv-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0xNTQiLCJwYXRoIjoiXC9mXC9jOTE4MWMzOS0wZGFmLTRmMjItOWVhNC01MmUyMWIxOWEwY2FcL2RheHkxZ3YtMzcyZDQyNmEtNGZlOC00YWQ1LWFkNjktNmVlZTQ3NDdkZjc2LnBuZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.CT5j0pkvTgCaD21f-JejJhrXchFsi7kkbiP6idGmYB0" height="100">
 </p>
 
-<h4> Experience </h4>
-<p align="center">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-</p>
+<div align="center">
+    <h4> Experience </h4>
+    <p>
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+    </p>  
+</div>
+
 
 <h4> knowledge </h4>
 <p align="center">  
