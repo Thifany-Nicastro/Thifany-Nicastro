@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-    <h4> Experience </h4>
+    <h3> Experience </h3>
     <p>
         <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50"/>
         <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="50" height="50"/>
@@ -28,7 +28,7 @@
 </div>
 
 <div align="center">
-    <h4> knowledge </h4>
+    <h3> knowledge </h3>
     <p align="center">  
         <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
         <img src="https://pbs.twimg.com/profile_images/1087392649122861057/M6EKYWWJ.jpg" alt="adonisjs" width="50" height="50"/>
@@ -37,7 +37,7 @@
 </div>
 
 <div align="center">
-    <h4> Interest </h4>
+    <h3> Interest </h3>
     <p align="center">  
         <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> 
         <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
