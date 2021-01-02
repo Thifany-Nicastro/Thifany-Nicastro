@@ -44,7 +44,6 @@
         <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> 
         <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
         <img src="https://devicons.github.io/devicon/devicon.git/icons/materialui/materialui-original.svg" alt="materialui" width="50" height="50"/>
-        <img src="https://colinstodd.com/images/posts/matcss-min.png" alt="materialize" width="50" height="50"/>
         <img src="https://drunomics.com/sites/default/files/nuxt-icon.png" alt="nuxtjs" width="50" height="50"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" alt="nextjs" width="80" height="50"/>
     </p>
