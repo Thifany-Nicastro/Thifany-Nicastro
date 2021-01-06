@@ -30,7 +30,7 @@
 <div align="center">
     <h3> knowledge </h3>
     <p align="center">  
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
         <img src="https://pbs.twimg.com/profile_images/1087392649122861057/M6EKYWWJ.jpg" alt="adonisjs" width="50" height="50"/>
         <img src="https://avatars0.githubusercontent.com/u/22965283?s=280&v=4" alt="bootstrap-vue" width="50" height="50"/>
         <img src="https://avatars0.githubusercontent.com/u/47703742?s=280&v=4" alt="inertiajs" width="50" height="50"/>
@@ -41,9 +41,9 @@
 <div align="center">
     <h3> Interest </h3>
     <p align="center">  
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> 
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/materialui/materialui-original.svg" alt="materialui" width="50" height="50"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="materialui" width="50" height="50"/>
         <img src="https://drunomics.com/sites/default/files/nuxt-icon.png" alt="nuxtjs" width="50" height="50"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" alt="nextjs" width="80" height="50"/>
     </p>
