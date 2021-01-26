@@ -33,7 +33,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
         <img src="https://pbs.twimg.com/profile_images/1087392649122861057/M6EKYWWJ.jpg" alt="adonisjs" width="50" height="50"/>
         <img src="https://avatars0.githubusercontent.com/u/22965283?s=280&v=4" alt="bootstrap-vue" width="50" height="50"/>
-        <img src="https://avatars0.githubusercontent.com/u/47703742?s=280&v=4" alt="inertiajs" width="50" height="50"/>
         <img src="https://img.icons8.com/color/452/firebase.png" alt="firebase" width="50" height="50"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
