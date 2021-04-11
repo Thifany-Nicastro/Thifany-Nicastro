@@ -26,7 +26,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="50" height="50"/>
-        <img src="https://img.stackshare.io/service/7419/20165699.png" alt="typeorm" width="50" height="50"/>
+        <img src="https://virtuslab.com/wp-content/uploads/2020/04/typeorm_sygnet.png" alt="typeorm" width="50" height="50"/>
     </p>
 </div>
 
