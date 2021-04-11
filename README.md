@@ -33,13 +33,14 @@
 <div align="center">
     <h3> Interest </h3>
     <p align="center">
-<!--         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> -->
-<!--         <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="materialui" width="50" height="50"/> -->
         <img src="https://drunomics.com/sites/default/files/nuxt-icon.png" alt="nuxtjs" width="50" height="50"/>
-<!--         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" alt="nextjs" width="80" height="50"/> -->
     </p>
 </div>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thifany-nicastro&show_icons=true"/>
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/thifany-nicastro/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
 </p>
