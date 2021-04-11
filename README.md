@@ -1,4 +1,9 @@
-<h1 align="center">Hi there! I'm Thifany.</h1> 
+<h1 align="center">Hi there! I'm Thifany 👋</h1>
+<p align="center">
+    <a href="https://www.linkedin.com/in/thifany-nicastro/" target="blank">
+        <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    </a>
+</p>
 
 <div align="center">
     <h3> Experience </h3>
@@ -39,8 +44,4 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thifany-nicastro&show_icons=true"/>
-</p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/thifany-nicastro/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
 </p>
