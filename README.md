@@ -1,11 +1,5 @@
 <h1 align="center">Hi there! I'm Thifany.</h1> 
 
-<h1 align="center">
-    <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-madoka.gif"/> 
-    <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-homura.gif"/> 
-    <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-mami.gif"/>
-</h1>
-
 <div align="center">
     <h3> Experience </h3>
     <p>
@@ -43,11 +37,6 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" alt="nextjs" width="80" height="50"/>
     </p>
 </div>
-
-<h1 align="center">
-      <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> 
-      <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-kyoko.gif"/>
-</h1>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thifany-nicastro&show_icons=true"/>
