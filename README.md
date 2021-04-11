@@ -39,6 +39,7 @@
     <h3> Interest </h3>
     <p align="center">
         <img src="https://drunomics.com/sites/default/files/nuxt-icon.png" alt="nuxtjs" width="50" height="50"/>
+        <img src="https://img.icons8.com/color/452/amazon-web-services.png" alt="aws" width="50" height="50"/>
     </p>
 </div>
 
