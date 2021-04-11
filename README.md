@@ -1,5 +1,9 @@
 ## Hi there! I am Thifany 👋
 
+<a href="https://www.linkedin.com/in/thifany-nicastro/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+
 🎓 System Analysis and Development student.
 
 🏢 Fullstack developer with PHP/Laravel ❤ and Vue.
@@ -8,9 +12,6 @@
 
 🔎 Looking for a backend job opportunity.
 
-<a href="https://www.linkedin.com/in/thifany-nicastro/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
 
 ## ⚡ Technologies
 
