@@ -1,7 +1,7 @@
 ## Hi there! I am Thifany 👋
 
 - 🎓 System Analysis and Development student.
-- 🏢 Fullstack developer with PHP/Laravel ❤ and Vue.
+- 🏢 Working as a fullstack developer with PHP/Laravel ❤ and Vue.
 - 🌱 Currently learning more about SOLID, TDD and patterns through Node.js,
 - 🔎 Looking for a backend job opportunity.
 
