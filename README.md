@@ -2,7 +2,7 @@
 
 - 🎓 System Analysis and Development student.
 - 🏢 Working as a fullstack developer with PHP/Laravel ❤ and Vue.
-- 🌱 Currently learning more about SOLID, TDD and patterns through Node.js,
+- 🌱 Currently learning more about SOLID, TDD and patterns through Node.js
 - 🔎 Looking for a backend job opportunity.
 
 <a href="https://www.linkedin.com/in/thifany-nicastro/" target="blank">
