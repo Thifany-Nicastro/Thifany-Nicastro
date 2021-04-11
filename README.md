@@ -35,7 +35,7 @@ I am Thifany, a System Analysis and Development student who currently works as a
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="50" height="50"/>
     <img src="https://virtuslab.com/wp-content/uploads/2020/04/typeorm_sygnet.png" alt="typeorm" width="50" height="50"/>
-    <img src="https://www.pngfind.com/pngs/m/255-2553250_icon-docker-notext-color-docker-icon-png-transparent.png" alt="docker" width="50" height="50"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/docker-11-1175228.png" alt="docker" width="50" height="50"/>
 </p>
 
 
