@@ -5,9 +5,6 @@
     <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-homura.gif"/> 
     <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-mami.gif"/>
 </h1>
-<p align="center"> 
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c9181c39-0daf-4f22-9ea4-52e21b19a0ca/daxy1gv-372d426a-4fe8-4ad5-ad69-6eee4747df76.png/v1/fill/w_1024,h_154,strp/lace_divider_big_by_sirafien_daxy1gv-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0xNTQiLCJwYXRoIjoiXC9mXC9jOTE4MWMzOS0wZGFmLTRmMjItOWVhNC01MmUyMWIxOWEwY2FcL2RheHkxZ3YtMzcyZDQyNmEtNGZlOC00YWQ1LWFkNjktNmVlZTQ3NDdkZjc2LnBuZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.CT5j0pkvTgCaD21f-JejJhrXchFsi7kkbiP6idGmYB0" height="100">
-</p>
 
 <div align="center">
     <h3> Experience </h3>
@@ -51,9 +48,7 @@
       <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> 
       <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-kyoko.gif"/>
 </h1>
-<p align="center"> 
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c9181c39-0daf-4f22-9ea4-52e21b19a0ca/daxy1gv-372d426a-4fe8-4ad5-ad69-6eee4747df76.png/v1/fill/w_1024,h_154,strp/lace_divider_big_by_sirafien_daxy1gv-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0xNTQiLCJwYXRoIjoiXC9mXC9jOTE4MWMzOS0wZGFmLTRmMjItOWVhNC01MmUyMWIxOWEwY2FcL2RheHkxZ3YtMzcyZDQyNmEtNGZlOC00YWQ1LWFkNjktNmVlZTQ3NDdkZjc2LnBuZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.CT5j0pkvTgCaD21f-JejJhrXchFsi7kkbiP6idGmYB0" height="100">
-</p>
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thifany-nicastro&show_icons=true"/>
 </p>
