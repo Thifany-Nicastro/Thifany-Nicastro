@@ -1,9 +1,12 @@
-<h1 align="center">Hi there! I'm Thifany 👋</h1>
-<p align="center">
-    <a href="https://www.linkedin.com/in/thifany-nicastro/" target="blank">
-        <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-    </a>
-</p>
+## Hi there! 👋
+
+I am Thifany, a System Analysis and Development student who currently works as a fullstack developer with PHP/Laravel ❤ and Vue.
+
+<a href="https://www.linkedin.com/in/thifany-nicastro/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+
+## ⚡ Technologies
 
 <div align="center">
     <h3> Experience </h3>
