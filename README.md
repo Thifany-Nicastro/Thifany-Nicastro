@@ -23,7 +23,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="50" height="50"/>
-    <img src="http://ctiglobal.com/wp-content/uploads/2021/07/IBM-Watson.jpg" alt="quasar" width="50" height="50"/>
+    <img src="http://ctiglobal.com/wp-content/uploads/2021/07/IBM-Watson.jpg" alt="ibm watson" width="50" height="50"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/docker-11-1175228.png" alt="docker" width="50" height="50"/>
 </p>
 
 
@@ -38,7 +39,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="50" height="50"/>
     <img src="https://virtuslab.com/wp-content/uploads/2020/04/typeorm_sygnet.png" alt="typeorm" width="50" height="50"/>
-    <img src="https://cdn.iconscout.com/icon/free/png-256/docker-11-1175228.png" alt="docker" width="50" height="50"/>
 </p>
 
 
