@@ -23,6 +23,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="50" height="50"/>
+    <img src="https://naic.com.br/wp-content/uploads/2020/07/IBM-Watson_logo2-e1493752611672-300x225-1.png" alt="quasar" width="50" height="50"/>
 </p>
 
 
