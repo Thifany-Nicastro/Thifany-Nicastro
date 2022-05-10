@@ -1,6 +1,6 @@
 ## Hi there! I am Thifany 👋
 
-- 🎓 System Analysis and Development student.
+- 🎓 Graduate in Systems Analysis.
 - 🏢 Working as a PHP developer.
 - 🌱 Currently learning more about SOLID, TDD and design patterns through Node.js
 <!-- - 🔎 Looking for a backend job opportunity. -->
