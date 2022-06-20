@@ -2,7 +2,7 @@
 
 - 🎓 Graduate in Systems Analysis.
 - 🏢 Working as a PHP developer.
-- 🌱 Currently learning GoLang :)
+- 🌱 Currently learning Node.js and GoLang :)
 <!-- - 🔎 Looking for a backend job opportunity. -->
 
 <a href="https://www.linkedin.com/in/thifany-nicastro/" target="blank">
