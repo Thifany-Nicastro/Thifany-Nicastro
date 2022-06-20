@@ -16,7 +16,7 @@
 
 <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="php" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/>
