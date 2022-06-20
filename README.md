@@ -38,6 +38,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="50" height="50"/>
     <img src="https://virtuslab.com/wp-content/uploads/2020/04/typeorm_sygnet.png" alt="typeorm" width="50" height="50"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="golang" width="50" height="50"/>
 </p>
 
 
