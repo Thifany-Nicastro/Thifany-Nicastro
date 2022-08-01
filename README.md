@@ -23,7 +23,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
     <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="50" height="50"/>
     <img src="http://ctiglobal.com/wp-content/uploads/2021/07/IBM-Watson.jpg" alt="ibm watson" width="50" height="50"/>
     <img src="https://cdn.iconscout.com/icon/free/png-256/docker-11-1175228.png" alt="docker" width="50" height="50"/>
