@@ -1,7 +1,7 @@
 ## Hi there! I am Thifany 👋
 
 - 🎓 Graduate in Systems Analysis.
-- 🏢 Working as a PHP developer.
+- 🏢 Working as a back-end developer.
 - 🌱 Currently learning Node.js and GoLang :)
 <!-- - 🔎 Looking for a backend job opportunity. -->
 
