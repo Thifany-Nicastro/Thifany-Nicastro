@@ -26,6 +26,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="50" height="50"/>
     <img src="http://ctiglobal.com/wp-content/uploads/2021/07/IBM-Watson.jpg" alt="ibm watson" width="50" height="50"/>
     <img src="https://cdn.iconscout.com/icon/free/png-256/docker-11-1175228.png" alt="docker" width="50" height="50"/>
+    <img src="https://img.icons8.com/color/452/amazon-web-services.png" alt="aws" width="50" height="50"/>
 </p>
 
 
@@ -47,7 +48,7 @@
 ### Interest
 
 <p>
-    <img src="https://img.icons8.com/color/452/amazon-web-services.png" alt="aws" width="50" height="50"/>
+    
 </p>
 
 
