@@ -27,6 +27,7 @@
     <img src="http://ctiglobal.com/wp-content/uploads/2021/07/IBM-Watson.jpg" alt="ibm watson" width="50" height="50"/>
     <img src="https://cdn.iconscout.com/icon/free/png-256/docker-11-1175228.png" alt="docker" width="50" height="50"/>
     <img src="https://img.icons8.com/color/452/amazon-web-services.png" alt="aws" width="50" height="50"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="50" height="50"/>
 </p>
@@ -35,7 +36,6 @@
 ### knowledge
 
 <p>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/adonisjs/adonisjs-original.svg" alt="adonisjs" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="adonisjs" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
