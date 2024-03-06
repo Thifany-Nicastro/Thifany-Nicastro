@@ -37,7 +37,7 @@
 
 <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/adonisjs/adonisjs-original.svg" alt="adonisjs" width="50" height="50"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="adonisjs" width="50" height="50"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" alt="adonisjs" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
     <img src="https://virtuslab.com/wp-content/uploads/2020/04/typeorm_sygnet.png" alt="typeorm" width="50" height="50"/>
