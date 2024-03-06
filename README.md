@@ -30,6 +30,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="50" height="50"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original-wordmark.svg" alt="yii" width="50" height="50"/> 
 </p>
 
 
